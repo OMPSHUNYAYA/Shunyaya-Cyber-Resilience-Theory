@@ -1,0 +1,33 @@
+{
+  "coverage": [
+    "BRK",
+    "IRK",
+    "ORIK",
+    "integrated_hardening",
+    "name_invariant_gauge",
+    "equivariant_admission",
+    "target_relative_minimality",
+    "role_polarized_obstruction",
+    "assurance_contest",
+    "round_resolved_campaign",
+    "campaign_residual",
+    "integrated_classification",
+    "integrated_independent_verification"
+  ],
+  "regression_scripts": [
+    "SCRT_Base_Resilience_Kernel_v0_4_0.py",
+    "SCRT_Interventional_Resilience_Kernel_v0_7_0.py",
+    "SCRT_Obligation_Resolved_Interventional_Kernel_v0_8_0.py",
+    "SCRT_Integrated_Canonical_Cyber_Resilience_Theorem_v1_0_0.py",
+    "SCRT_Name_Invariant_Interface_Quotient_v1_3_0.py",
+    "SCRT_Equivariant_Continuation_Closure_v1_5_0.py",
+    "SCRT_Target_Relative_Minimality_and_Universal_Strategy_Admission_v1_8_0.py",
+    "SCRT_Role_Polarized_Assurance_Obstruction_Theorem_v2_1_0.py",
+    "SCRT_Adversarial_Assurance_Contest_Kernel_v2_3_0.py",
+    "SCRT_Round_Resolved_Campaign_Generator_Kernel_v2_5_0.py",
+    "SCRT_Campaign_Residual_Equivalence_Theorem_v2_6_0.py",
+    "SCRT_Integrated_Universal_Assurance_Continuation_Classification_v2_7_0.py",
+    "SCRT_Integrated_Universal_Assurance_Continuation_Independent_Verifier_v2_7_0.py"
+  ],
+  "version": "2.18.0"
+}

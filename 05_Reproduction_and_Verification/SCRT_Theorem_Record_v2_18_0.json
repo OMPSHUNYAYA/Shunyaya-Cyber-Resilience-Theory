@@ -1,0 +1,19 @@
+{
+  "project": "Shunyaya Cyber Resilience Theory",
+  "version": "2.18.0",
+  "proof_status": "WRITTEN_COMPLETE_NOT_MECHANIZED",
+  "mechanized_proofs": "NONE",
+  "continuation_chain": "FROZEN",
+  "hardening_phase_chain": "FROZEN",
+  "verification_layers": [
+    "PACKAGE_INTEGRITY",
+    "GENERATED_FINITE_FALSIFICATION",
+    "PRINCIPAL_IMPLEMENTATIONS",
+    "INDEPENDENT_IMPLEMENTATIONS",
+    "HISTORICAL_REGRESSION",
+    "REDUCTION_REPLAY",
+    "ADVERSARIAL_PHASE_VERIFICATION"
+  ],
+  "scope_binding_audit": "PASS",
+  "historical_priority": "NOT_ASSERTED"
+}

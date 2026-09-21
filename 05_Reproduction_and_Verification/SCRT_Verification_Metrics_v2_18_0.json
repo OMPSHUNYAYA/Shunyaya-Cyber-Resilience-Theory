@@ -1,0 +1,22 @@
+{
+  "version": "2.18.0",
+  "generated_finite_systems": {
+    "exhaustive_transition_systems": 5898,
+    "seeded_larger_transition_systems": 1500,
+    "two_ancestry_architectures": 4096,
+    "silent_assurance_membership_checks": 65536,
+    "recovery_duality_checks": 32640
+  },
+  "proof_status": "WRITTEN_COMPLETE_NOT_MECHANIZED",
+  "mechanized_proofs": "NONE",
+  "assurance_hardening_adversarial_verification": {
+    "generated_conflict_free_systems": 220,
+    "generated_conflict_free_portfolios": 2488,
+    "generated_resource_choice_systems": 320,
+    "unbounded_global_obstruction_orders": "2..14",
+    "exhaustive_reduction_instances_q2": 256,
+    "exhaustive_reduction_positive_q2": 175,
+    "seeded_reduction_instances_q3": 900,
+    "seeded_reduction_positive_q3": 613
+  }
+}

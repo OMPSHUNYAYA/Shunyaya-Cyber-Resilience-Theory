@@ -1,0 +1,49 @@
+Shunyaya Cyber Resilience Theory (SCRT)
+
+LICENSE MAP
+===========
+
+This repository uses category-specific licensing.
+
+1. Software, verification code, workflows, and machine-readable scientific artifacts
+-----------------------------------------------------------------------------------
+
+Project-authored software, verification code, workflow/configuration files, JSON scientific records, bindings, manifests intended for machine replay, and computational integrity artifacts are licensed under:
+
+Apache License 2.0
+SPDX-License-Identifier: Apache-2.0
+
+Complete local license text:
+LICENSES/Apache-2.0.txt
+
+Official license URI:
+https://www.apache.org/licenses/LICENSE-2.0
+
+2. Documentation and research exposition
+-----------------------------------------
+
+Project-authored README material, theorem exposition, proof documentation, encoding and operational-semantics documentation, verification guides and scope documents, research-positioning notes, claim-boundary documentation, worked-example prose, notices, and other explanatory research content are licensed under:
+
+Creative Commons Attribution-NonCommercial 4.0 International
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+Complete local license text:
+LICENSES/CC-BY-NC-4.0.txt
+
+Official license URI:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+3. Research comparison
+----------------------
+
+The comparison materials under `04_Research_Context/` contain project-authored, category-level mathematical and cybersecurity positioning only. They do not identify individual comparison articles, authors, or unrelated named projects and do not reproduce third-party research text, figures, tables, datasets, or software source.
+
+4. Mathematical content boundary
+--------------------------------
+
+Copyright and software/documentation licenses govern project-authored expression and implementation. They do not assert ownership of mathematical facts, equations, abstract theorem statements, standard mathematical methods, independently stated reference facts, or independently developed proofs.
+
+5. Third-party materials
+------------------------
+
+Third-party materials remain subject to their respective rights and terms. See `THIRD_PARTY_NOTICES.txt`.

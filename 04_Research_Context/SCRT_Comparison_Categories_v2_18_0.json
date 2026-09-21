@@ -1,0 +1,18 @@
+{
+  "version": "2.18.0",
+  "not_claimed_as_novel": [
+    "security assurance",
+    "cyber resilience",
+    "redundancy and hardening",
+    "behavioral equivalence and right congruence",
+    "partition refinement and residual minimization",
+    "target saturation",
+    "packing/blocker and hitting-set methods",
+    "fixed-point strategy methods",
+    "matching and resource-compatible selection",
+    "Pareto optimization",
+    "polynomial-time and NP-completeness techniques"
+  ],
+  "historical_priority": "NOT_ASSERTED",
+  "scrt_specific_theorem_structure": "integrated SCRT operational/certified assurance semantics and theorem structure: assurance-coherent hardening, target-bounded local activation and response, resource-dependent global audit phase boundary, and the associated fixed-target computational phase boundary"
+}

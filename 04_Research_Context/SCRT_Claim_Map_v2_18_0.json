@@ -1,0 +1,48 @@
+{
+  "version": "2.18.0",
+  "claims": [
+    {
+      "id": "continuation_classification",
+      "scope": "declared finite continuation contracts",
+      "theory": "01_Theory/SCRT_Integrated_Universal_Assurance_Continuation_Classification_v2_7_0.md",
+      "verification": "03_Verification/Regression/SCRT_Integrated_Universal_Assurance_Continuation_Classification_v2_7_0.py"
+    },
+    {
+      "id": "target_relative_minimality",
+      "scope": "fixed target k and target-congruent semantics",
+      "theory": "01_Theory/SCRT_Target_Relative_Strategy_Theorem_v2_7_0.md",
+      "verification": "03_Verification/Regression/SCRT_Target_Relative_Minimality_and_Universal_Strategy_Admission_v1_8_0.py"
+    },
+    {
+      "id": "campaign_residual",
+      "scope": "finite registered target-saturated campaign contracts",
+      "theory": "01_Theory/SCRT_Campaign_Residual_Theorem_v2_7_0.md",
+      "verification": "03_Verification/Regression/SCRT_Campaign_Residual_Equivalence_Theorem_v2_6_0.py"
+    },
+    {
+      "id": "assurance_coherent_hardening",
+      "scope": "finite route families with additive hardening/compensation",
+      "theory": "01_Theory/SCRT_Universal_Assurance_Coherent_Hardening_Theorem_v2_10_0.md",
+      "verification": "03_Verification/Hardening_Phase/SCRT_Universal_Assurance_Coherent_Hardening_Theorem_v2_10_0.py"
+    },
+    {
+      "id": "assurance_interaction_phase",
+      "scope": "target-k hardening with conflict-free or exclusive certified resources",
+      "theory": "01_Theory/SCRT_Assurance_Interaction_Phase_Boundary_Theorem_v2_16_0.md",
+      "verification": "03_Verification/Hardening_Phase/SCRT_Assurance_Interaction_Phase_Boundary_Theorem_v2_16_0.py"
+    },
+    {
+      "id": "assurance_complexity_phase",
+      "scope": "fixed k and explicit finite scenario/action representation",
+      "theory": "01_Theory/SCRT_Assurance_Audit_Complexity_Phase_Boundary_Theorem_v2_17_0.md",
+      "verification": "03_Verification/Hardening_Phase/SCRT_Assurance_Audit_Complexity_Phase_Boundary_Theorem_v2_17_0.py"
+    },
+    {
+      "id": "integrated_assurance_hardening_phase",
+      "scope": "finite SCRT hardening/compensation contracts with conflict-free or exclusive certified resources",
+      "theory": "01_Theory/SCRT_Assurance_Coherent_Hardening_Phase_Theorem_v2_18_0.md",
+      "verification": "03_Verification/Generated/SCRT_Assurance_Hardening_Adversarial_Verification_v2_18_0.py"
+    }
+  ],
+  "historical_priority": "NOT_ASSERTED"
+}

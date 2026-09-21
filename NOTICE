@@ -1,0 +1,11 @@
+Shunyaya Cyber Resilience Theory (SCRT)
+Scientific Package v2.18.0
+Copyright 2026 Shunyaya Framework contributors.
+
+This repository contains project-authored mathematical exposition, reference algorithms, verification software, worked encodings, research-context documentation, and reproducibility infrastructure for Shunyaya Cyber Resilience Theory.
+
+SCRT develops exact finite-interface semantics for operational and independently certified cyber resilience. The theorem chain includes contract-relative continuation classification, role-polarized silent-assurance obstruction, adversarial assurance campaigns, assurance-coherent hardening, target-bounded local interaction, the conflict-free versus exclusive-resource global audit boundary, and the corresponding fixed-target computational phase boundary.
+
+The repository uses category-specific licensing. See LICENSE and the complete local license texts under LICENSES/.
+
+Research comparison under `04_Research_Context/` is category-level and non-bibliographic. Named literature used during separate novelty and comparison auditing is not mathematical input to the SCRT derivation and is not part of the research-facing comparison material.

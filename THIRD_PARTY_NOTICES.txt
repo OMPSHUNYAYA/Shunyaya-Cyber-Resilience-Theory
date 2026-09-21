@@ -1,0 +1,9 @@
+THIRD-PARTY AND PROVENANCE NOTICES
+
+The SCRT repository does not redistribute third-party research text, figures, tables, datasets, or software source as research content.
+
+Research comparison is independently written, category-level, and non-bibliographic.
+
+The complete Apache License 2.0 and Creative Commons Attribution-NonCommercial 4.0 International license texts are included locally for the repository's category-specific license map.
+
+The mathematical development in this repository does not use outside articles, published constructions, or outside research as proof input. Research literature is used only for separate novelty and comparison auditing.

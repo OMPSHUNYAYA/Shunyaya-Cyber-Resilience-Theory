@@ -1,0 +1,13 @@
+COPYRIGHT AND RIGHTS NOTICE
+
+Copyright 2026 Shunyaya Framework contributors.
+
+Project-authored SCRT software, verification software, workflow/configuration files, machine-readable scientific artifacts, bindings, manifests, and computational integrity artifacts are licensed under the Apache License, Version 2.0 (SPDX: Apache-2.0).
+
+Project-authored theorem exposition, README material, proof documentation, encoding and operational-semantics documentation, verification documentation, research-context notes, worked-example prose, and other explanatory research material are licensed under Creative Commons Attribution-NonCommercial 4.0 International (SPDX: CC-BY-NC-4.0), unless a file states otherwise.
+
+Third-party materials remain subject to their respective rights and terms and are not licensed by this notice.
+
+Copyright and license terms govern project-authored expression and implementation. They do not assert ownership of mathematical facts, equations, abstract theorem statements, standard methods, independently stated reference facts, or independently developed proofs.
+
+See LICENSE, LICENSES/, NOTICE, and THIRD_PARTY_NOTICES.txt.
