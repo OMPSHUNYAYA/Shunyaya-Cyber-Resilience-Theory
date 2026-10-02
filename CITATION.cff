@@ -3,7 +3,7 @@ message: "If you use Shunyaya Cyber Resilience Theory (SCRT), please cite the pr
 title: "Shunyaya Cyber Resilience Theory (SCRT)"
 type: software
 authors:
-  - name: "Shunyaya Framework contributors"
+  - name: "Shunyaya Framework Authors"
 version: 2.18.0
 repository-code: "https://github.com/OMPSHUNYAYA/Shunyaya-Cyber-Resilience-Theory"
 url: "https://github.com/OMPSHUNYAYA/Shunyaya-Cyber-Resilience-Theory"
